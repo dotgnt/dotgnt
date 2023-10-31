@@ -9,3 +9,4 @@ I'm a self-taught and build stuff.
 ## Guides
 
 - [Nostr relay](https://github.com/dotgnt/dotgnt/blob/main/guides/nostr-relay.md)
+- [Lightning address](https://github.com/dotgnt/dotgnt/blob/main/guides/lightning-address.md)
